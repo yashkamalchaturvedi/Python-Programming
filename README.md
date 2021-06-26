@@ -1,6 +1,6 @@
 # Python Programming
 
-This repository contains 10 chapters from basic to intermediate level coding in Python.
+This repository contains chapters from basic to intermediate level coding in Python.
 
 ## Documentation
 
